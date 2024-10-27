@@ -12,6 +12,7 @@
 *.xd
 
 # Avoid your project being littered with annoying .DS_Store files!
+dist
 .DS_Store
 .prettierignore
 node_modules
@@ -20,5 +21,4 @@ package.json
 postcss.config.js
 tailwind.config.js
 README-template.md
-dist
 style-guide.md
